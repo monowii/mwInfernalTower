@@ -1,0 +1,7 @@
+name: mwInfernalTower
+author: monowii
+version: 0.1
+main: fr.monowii.infernalTower.InfernalTower
+commands:
+  infernaltower:
+    aliases: [it]
